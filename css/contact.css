@@ -1,0 +1,23 @@
+.nav .contact{color: #cb2700;}
+.main{background-image: url(../images/main-bg_45.jpg);}
+.main-inner{width: 940px;height: 873px;margin:0 auto;}
+.main-inner img{margin-top: 40px;}
+article{width: 600px;float: left;}
+h2{margin-top: 51px;color: #fefefe;font-size: 27px;font-family: Arial;}
+.text{display: block;width: 300px;height: 32px;margin-bottom: 3px;border-radius: 10px;}
+.name{display: block;margin-top: 22px;width: 300px;height: 32px;margin-bottom: 3px;border-radius: 10px;}
+.message{display: block;width: 600px;height: 324px;border-radius: 10px;}
+article a{display: block;float: left;margin-right: 14px;text-decoration: none;margin-top: 20px;width: 106px;height: 40px;background-image: url(../images/banner-bg2_44.jpg);border-radius:10px;border-top: 1px solid #eb8100;color:#ffffff;font-family: Arial;font-size: 20px;line-height: 40px;text-align: center;}
+aside{float: right;};
+h2{text-align: center;color:#fefefe;font-size: 27px;font-family: Arial;background-color:#0e0f0f;margin-top: 40px;margin-bottom: 33px;}
+.hours{margin-left: 20px;color: #7f7f7f;font-family: Arial;font-size: 14px;margin-top: 33px;}
+.time{margin-left: 20px;margin-top: 24px;color:#fefefe;font-family: Arial;font-size: 12px;font-family: Arial;font-size: 16px;line-height: 25px;}
+.demo{margin-left: 20px;color: #7f7f7f;font-family: Arial;font-size: 14px;margin-top: 220px;line-height: 28px;}
+.telephone{margin-left: 20px;color: #7f7f7f;font-family: Arial;font-size: 14px;margin-top: 20px;line-height: 28px;}
+span{color:#fefefe;font-family: Arial;font-size: 12px;font-family: Arial;font-size: 16px;line-height: 25px;}
+aside a{color:#ca2800;}
+
+
+
+
+

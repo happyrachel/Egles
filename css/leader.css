@@ -1,0 +1,28 @@
+.nav .leader{color:#cb2700;}
+.main{background-image: url(../images/main-bg_45.jpg);}
+.main-inner{width: 940px;height: 1114px;margin: 0 auto;padding-top: 40px;}
+.m-b-left{width: 600px;height: 874px;float: left;margin-right: 40px;}
+.chairman{width: 600px;height: 317px;margin-top: 40px;}
+.m-b-left h2{color: #fefefe;font-size: 27px;font-family: Arial;}
+.chairman img{float: left;margin-right: 21px;margin-top: 33px;}
+.m-b-left p{height: 163px;color: #7f7f7f;font-family: Arial;font-size: 12px;line-height: 23px;margin-top: 30px;}
+.More{display: block;text-decoration: none;margin-top: 24px;width: 106px;height: 40px;background-image: url(../images/banner-bg2_44.jpg);border-radius:10px;border-top: 1px solid #eb8100;color:#ffffff;font-family: Arial;font-size: 20px;line-height: 40px;text-align: center;}
+.minute{width: 600px;height: 476px;margin-top: 31px;}
+.minute p{height: 85px;}
+.m-middle{width: 600px;height: 140px;}
+.m-middle img{float: left;margin-right: 20px;}
+.m-middle ul{float: left;list-style: none;}
+.m-middle li a{display: block;width: 360px;height: 24px;text-decoration: none;color: #ffffff;line-height:24px;font-family: Arial;font-size: 12px;border-bottom: 1px dashed #3c3d3d;}
+.m-b-right{width: 300px;height: 834px;float: right;padding-top: 40px;}
+.m-b-right h2{text-align: center;color: #fefefe;font-size: 27px;font-family: Arial;background-color: #0e0f0f;margin-bottom: 33px;}
+.m-b-right p{color: #7f7f7f;font-family: Arial;font-size: 12px;line-height: 23px;margin-top: 30px;margin-left: 21px;text-indent: 2px;}
+.m-b-right ul{margin-top: 15px;margin-left: 21px;}
+.m-b-right li{list-style-image: url(../images/sanjiao_82.png);list-style-position: inside;width: 279px;height: 34px;border-bottom: 1px dashed #3c3d3d;}
+.m-b-right a{color: white;text-decoration: none;line-height: 34px;font-size: 12px;font-family: Arial;}
+.m-b-right .More{display: block;text-decoration: none;margin-top: 24px;width: 106px;height: 40px;background-image: url(../images/banner-bg2_44.jpg);border-radius:10px;border-top: 1px solid #eb8100;color:#ffffff;font-family: Arial;font-size: 20px;line-height: 40px;text-align: center;}
+.youth{margin-top: 30px;}
+
+
+
+
+
